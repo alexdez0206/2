@@ -15,5 +15,5 @@ int main (){
     cout << "la suma de los numeros ingresados es: "<<total<<endl;
 
     return 0;   
-}
+}   
 

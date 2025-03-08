@@ -4,7 +4,7 @@ using namespace std;
 int main (){
     int numero;
     do {
-    cout << "Digite algun numero: "<<endl;
+    cout << "Digite algun numero del uno al diez: "<<endl;
     cin >> numero;
 
     }while ((numero<1) || (numero>10));
